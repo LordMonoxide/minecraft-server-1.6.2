@@ -573,6 +573,7 @@ languagefile {
     S:item.GT_Materials.40.name=Magnalium Ingot
     S:item.GT_Materials.41.name=Soldering Alloy Ingot
     S:item.GT_Materials.42.name=Battery Alloy Ingot
+    S:item.GT_Materials.43.name=Uranium Ingot
     S:item.GT_Materials.5.name=Hot Tungstensteel Ingot
     S:item.GT_Materials.54.name=Red Garnet
     S:item.GT_Materials.55.name=Yellow Garnet
@@ -827,6 +828,7 @@ languagefile {
     S:item.GT_Turbine_Tungstensteel.tooltip_main=Turbine Efficiency:  90%
     S:item.GT_Wrench_Advanced.name=Advanced Wrench
     S:item.GT_Wrench_Advanced.tooltip_1=Rotation of target depends on where exactly you click
+    S:item.GT_Wrench_Advanced.tooltip_bc=Works as Buildcraft Wrench too
     S:item.GT_Wrench_Advanced.tooltip_main=To dismantle and rotate Blocks of most Mods
     S:item.GT_Wrench_Bronze.name=Bronze Wrench
     S:item.GT_Wrench_Bronze.tooltip_1=Rotation of target depends on where exactly you click
@@ -834,6 +836,7 @@ languagefile {
     S:item.GT_Wrench_Bronze.tooltip_main=To dismantle and rotate Blocks of most Mods
     S:item.GT_Wrench_Electric.name=Electric Wrench
     S:item.GT_Wrench_Electric.tooltip_1=Rotation of target depends on where exactly you click
+    S:item.GT_Wrench_Electric.tooltip_bc=Works as Buildcraft Wrench too
     S:item.GT_Wrench_Electric.tooltip_main=To dismantle and rotate Blocks of most Mods
     S:item.GT_Wrench_Iron.name=Iron Wrench
     S:item.GT_Wrench_Iron.tooltip_1=Rotation of target depends on where exactly you click
@@ -984,6 +987,8 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Multi_SteamTurbine.name=Large Steam Turbine
     S:tile.BlockMetaID_Machine.GT_Multi_ThermalBoiler.name=Thermal Boiler
     S:tile.BlockMetaID_Machine.GT_Output_Hatch.name=Output Hatch
+    S:tile.BlockMetaID_Machine.GT_Pipe_Bronze.name=Bronze Fluid Pipe
+    S:tile.BlockMetaID_Machine.GT_Pipe_Steel.name=Steel Fluid Pipe
     S:tile.BlockMetaID_Machine.GT_PlasmaGenerator.name=Plasma Generator
     S:tile.BlockMetaID_Machine.GT_Printer.name=Printing Factory
     S:tile.BlockMetaID_Machine.GT_ProjectTable.name=Advanced Crafting Table
