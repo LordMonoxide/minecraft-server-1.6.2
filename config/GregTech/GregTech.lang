@@ -420,6 +420,8 @@ languagefile {
     S:item.GT_Components.100.tooltip=A Tungstensteel Gear
     S:item.GT_Components.101.name=Iridium Gear
     S:item.GT_Components.101.tooltip=An Iridium Gear
+    S:item.GT_Components.102.name=Stainless Steel Gear
+    S:item.GT_Components.102.tooltip=A Stainless Steel Gear
     S:item.GT_Components.11.name=Redstone Item Detector
     S:item.GT_Components.11.tooltip=Outputs Redstone depending on stored Items
     S:item.GT_Components.12.name=Energy Crystal Upgrade
@@ -480,6 +482,8 @@ languagefile {
     S:item.GT_Components.37.tooltip=Machine Block
     S:item.GT_Components.38.name=Tungstensteel Machine Hull
     S:item.GT_Components.38.tooltip=Very Advanced Machine Block
+    S:item.GT_Components.39.name=Stainless Machine Hull
+    S:item.GT_Components.39.tooltip=Advanced Machine Block
     S:item.GT_Components.4.name=Computer Monitor
     S:item.GT_Components.4.tooltip=Displays things
     S:item.GT_Components.48.name=Basic Circuit Board
@@ -593,6 +597,7 @@ languagefile {
     S:item.GT_Dusts.36.name=Diamond Dust
     S:item.GT_Dusts.37.name=Olivine Dust
     S:item.GT_Dusts.4.name=Calcite Dust
+    S:item.GT_Dusts.43.name=Stainless Steel Dust
     S:item.GT_Dusts.44.name=Galena Dust
     S:item.GT_Dusts.45.name=Phosphorus Dust
     S:item.GT_Dusts.46.name=Obsidian Dust
@@ -739,6 +744,7 @@ languagefile {
     S:item.GT_Materials.41.name=Soldering Alloy Ingot
     S:item.GT_Materials.42.name=Battery Alloy Ingot
     S:item.GT_Materials.43.name=Uranium Ingot
+    S:item.GT_Materials.44.name=Stainless Steel Ingot
     S:item.GT_Materials.5.name=Hot Tungstensteel Ingot
     S:item.GT_Materials.54.name=Red Garnet
     S:item.GT_Materials.55.name=Yellow Garnet
@@ -871,6 +877,7 @@ languagefile {
     S:item.GT_SmallDusts.36.name=Tiny Pile of Diamond Dust
     S:item.GT_SmallDusts.37.name=Tiny Pile of Olivine Dust
     S:item.GT_SmallDusts.4.name=Tiny Pile of Calcite Dust
+    S:item.GT_SmallDusts.43.name=Tiny Pile of Stainless Steel Dust
     S:item.GT_SmallDusts.44.name=Tiny Pile of Galena Dust
     S:item.GT_SmallDusts.45.name=Tiny Pile of Phosphorus Dust
     S:item.GT_SmallDusts.46.name=Tiny Pile of Obsidian Dust
@@ -1174,8 +1181,12 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Pipe_Bronze_Large.name=Large Bronze Fluid Pipe
     S:tile.BlockMetaID_Machine.GT_Pipe_Electrum.name=Electrum Item Pipe
     S:tile.BlockMetaID_Machine.GT_Pipe_Electrum_Large.name=Large Electrum Item Pipe
+    S:tile.BlockMetaID_Machine.GT_Pipe_StainlessSteel.name=Stainless Steel Fluid Pipe
+    S:tile.BlockMetaID_Machine.GT_Pipe_StainlessSteel_Large.name=Large Stainless Steel Fluid Pipe
     S:tile.BlockMetaID_Machine.GT_Pipe_Steel.name=Steel Fluid Pipe
     S:tile.BlockMetaID_Machine.GT_Pipe_Steel_Large.name=Large Steel Fluid Pipe
+    S:tile.BlockMetaID_Machine.GT_Pipe_TungstenSteel.name=Tungstensteel Fluid Pipe
+    S:tile.BlockMetaID_Machine.GT_Pipe_TungstenSteel_Large.name=Large Tungstensteel Fluid Pipe
     S:tile.BlockMetaID_Machine.GT_PlasmaGenerator.name=Plasma Generator
     S:tile.BlockMetaID_Machine.GT_Printer.name=Printing Factory
     S:tile.BlockMetaID_Machine.GT_ProjectTable.name=Advanced Crafting Table
