@@ -1,6 +1,15 @@
 # Configuration file
 
 ####################
+# enablelangfile
+####################
+
+enablelangfile {
+    B:UseThisFileAsLanguageFile=false
+}
+
+
+####################
 # languagefile
 ####################
 
@@ -863,6 +872,7 @@ languagefile {
     S:item.GT_SmallDusts.249.name=Tiny Pile of Redstone Dust
     S:item.GT_SmallDusts.25.name=Tiny Pile of Brass Dust
     S:item.GT_SmallDusts.250.name=Tiny Pile of Glowstone Dust
+    S:item.GT_SmallDusts.251.name=Tiny Pile of Blaze Powder
     S:item.GT_SmallDusts.26.name=Tiny Pile of Steel Dust
     S:item.GT_SmallDusts.27.name=Tiny Pile of Platinum Dust
     S:item.GT_SmallDusts.28.name=Tiny Pile of Nickel Dust
@@ -1004,6 +1014,16 @@ languagefile {
     S:item.GT_Spray_Pepper.tooltip_1=especially Pedobears, Care Bears,
     S:item.GT_Spray_Pepper.tooltip_2=Confession Bears and Bear Grylls
     S:item.GT_Spray_Pepper.tooltip_main=To defend yourself against Bears
+    S:item.GT_Steel_Axe.name=Steel Axe
+    S:item.GT_Steel_Hoe.name=Steel Hoe
+    S:item.GT_Steel_Pickaxe.name=Steel Pickaxe
+    S:item.GT_Steel_Shovel.name=Steel Shovel
+    S:item.GT_Steel_Sword.name=Steel Sword
+    S:item.GT_TungstenSteel_Axe.name=Tungstensteel Axe
+    S:item.GT_TungstenSteel_Hoe.name=Tungstensteel Hoe
+    S:item.GT_TungstenSteel_Pickaxe.name=Tungstensteel Pickaxe
+    S:item.GT_TungstenSteel_Shovel.name=Tungstensteel Shovel
+    S:item.GT_TungstenSteel_Sword.name=Tungstensteel Sword
     S:item.GT_Turbine_Bronze.name=Bronze Turbine Rotor
     S:item.GT_Turbine_Bronze.tooltip_main=Turbine Efficiency:  60%
     S:item.GT_Turbine_Carbon.name=Carbon Turbine Rotor
